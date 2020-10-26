@@ -11,3 +11,10 @@ It extends a powerful machine learning method known as least squares support vec
 ## Notes
 * The repository may be updated in the future. 
 * Please open an issue if you found any bugs.
+
+## Cite
+Please cite us as:
+
+```
+K. Parand, , A.A. Aghaei, M. Jani, and A. Ghodsi. "A new approach to the numerical solution of Fredholm integral equations using least squares-support vector regression".Mathematics and Computers in Simulation 180 (2021): 114 - 128.
+```
